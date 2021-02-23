@@ -1,0 +1,2 @@
+# BadLogan
+Program for spam
